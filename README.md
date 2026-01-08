@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Prajakta Guha
 
-<!--
-**Prajakta-glitch/prajakta-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Currently pursuing BCA (2nd Year Student)**
+💻 **Interested in: ** Web Development, Python, Data Structures, SQL 
+📍 India
 
-Here are some ideas to get you started:
+### 📖 Currently Learning
+  Data Structures (C)
+  Python Projects
+  Responsive Web Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🥷 Skills
+  Python
+  C
+  HTML, CSS
+  SQL
+
+### 📡 Connect with me
+  LinkedIn: (https://www.linkedin.com/in/prajakta-guha-2b3942309)
+
+---
+> *Learning and building one project at a time 💫*
