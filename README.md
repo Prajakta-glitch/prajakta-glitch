@@ -15,6 +15,9 @@
   HTML, CSS
   SQL
 
+### 📂 Prjects
+  Python Quiz Game (https://github.com/Prajakta-glitch/python-quiz-game/blob/main/quiz.py)
+
 ### 📡 Connect with me
   LinkedIn: (https://www.linkedin.com/in/prajakta-guha-2b3942309)
 
