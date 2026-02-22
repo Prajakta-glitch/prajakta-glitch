@@ -5,8 +5,8 @@
 📍 India
 
 ### 📖 Currently Learning
-  Data Structures (C)
-  Python Projects
+  Data Structures (C),
+  Python Projects,
   Responsive Web Design
 
 ### 🥷 Skills
