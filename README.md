@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Prajakta Guha
 
 🎓 **Currently pursuing BCA (2nd Year Student)**
-💻 **Interested in: ** Web Development, Python, Data Structures, SQL 
+💻 **Interested in: ** Web Development, Python, Data Structures, SQL,  
 📍 India
 
 ### 📖 Currently Learning
@@ -10,9 +10,9 @@
   Responsive Web Design
 
 ### 🥷 Skills
-  Python
-  C
-  HTML, CSS
+  Python,
+  C,
+  HTML, CSS,
   SQL
 
 ### 📂 Prjects
